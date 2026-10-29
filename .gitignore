@@ -3,3 +3,4 @@ dist
 *.docx
 .vercel
 *.local
+*.bak
